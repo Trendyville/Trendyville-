@@ -1,0 +1,7 @@
+{
+  "name": "Trendyville Realty & Investment Suite",
+  "description": "A premium AI-powered platform for real estate, Airbnb management, and high-yield investment discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
